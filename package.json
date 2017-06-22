@@ -38,6 +38,6 @@
     "test": "gulp lint"
   },
   "dependencies": {
-    "jshint": "^2.9.4"
+    "jshint": "^2.9.5"
   }
 }
